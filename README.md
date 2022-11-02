@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surq20
+- 👋 Hi, I’m SU Runqi
 - 👀 I’m interested in Machine Learning, Cloud Computing, AI, Big Data, Serverless, Computer Vision.
 - 🌱 I’m currently learning Yolo, Hadoop, Spark, Pytorch, TensorFlow.
 
